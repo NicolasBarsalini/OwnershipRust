@@ -18,7 +18,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
 
-       git clone https://github.com/your-username/your-application.git
+       git clone https://github.com/NicolasBarsalini/OwnershipRust.git
 
 2. Navigate to the application directory:
 
