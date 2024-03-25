@@ -22,7 +22,7 @@ Make sure you have the following installed on your system:
 
 2. Navigate to the application directory:
 
-       cd your-application
+       cd ./OwnershipRust
 
 3. Build the source code:
 
